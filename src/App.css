@@ -1,0 +1,16 @@
+h1 {
+  margin-bottom: 20px;
+  font-size: 30px;
+  font-weight: 700;
+}
+
+.todo-container {
+  margin-top: 150px;
+}
+body {
+  background-image: url(./images/Background.jpg);
+  background-size: cover;
+}
+.myrow {
+  margin: 10px 5px;
+}

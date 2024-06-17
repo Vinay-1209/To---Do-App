@@ -1,0 +1,9 @@
+input {
+  width: 100%;
+  margin: 10px;
+  border-radius: 5px;
+}
+
+.mybutton {
+  margin: 0px 0px 3px 0px;
+}
